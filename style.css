@@ -9,3 +9,17 @@
   border: none;
 
 }
+
+.footer-background {
+  background-color: #292929;;
+  color: whitesmoke;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.ui.label {
+  background-color:#000000;;
+  color: whitesmoke;
+  text-align: center;
+  width: 100px;
+}
